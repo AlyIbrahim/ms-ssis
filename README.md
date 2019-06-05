@@ -1,2 +1,2 @@
 # Containerizing Microsoft SQL Server Integration Services (SSIS)
-Building Linux based containers that has Microsoft SQL Server Integration Services installed 
+This repo can be used to build Linux based containers that has Microsoft SQL Server Integration Services installed
